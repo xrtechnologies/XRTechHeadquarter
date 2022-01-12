@@ -3,7 +3,87 @@ guid: 26bb732ca5067c2409ee6b6cf6a0329f
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_material
+    second: {fileID: 2100000, guid: 2a5e8aaccd4094a48b565c5c2d930c72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 38489cc20317d9243a0abb95c5fb1059, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Handle_material
+    second: {fileID: 2100000, guid: b65f44e9d82b3a14893261fe8e80f2b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marble
+    second: {fileID: 2100000, guid: 13de0416b7ef68e4aa0185a7179caabf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TopLevel
+    second: {fileID: 2100000, guid: 79889ce3da0714c49b2d96f700c3ece0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall2_cuts
+    second: {fileID: 2100000, guid: bb73f8f223921a74e935105643a1323e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall2_cuts.002
+    second: {fileID: 2100000, guid: 2baba03e0f2de984698d24317ea64992, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall2_cuts.003
+    second: {fileID: 2100000, guid: 2a4f7862b8ced6b4dbd16ee967d45788, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall2_inside
+    second: {fileID: 2100000, guid: 8b5ea8d83a2f1d24ba9e01931efa0698, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall2_inside.002
+    second: {fileID: 2100000, guid: cc54b619cbcde724aae652452b49cf74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall2_inside.003
+    second: {fileID: 2100000, guid: 427d6483e3b31db438187c1691e9b3c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall2_outside
+    second: {fileID: 2100000, guid: 86fd14c573f410447ab7f42d3d8848bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall2_outside.002
+    second: {fileID: 2100000, guid: dc91b82e14077c74f8063267102b7f9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall2_outside.003
+    second: {fileID: 2100000, guid: 47231bcf70fd0f54bbf795df632f0b7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood
+    second: {fileID: 2100000, guid: f2fb534c26970df4d8dce4d61e73c303, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hidden_material
+    second: {fileID: 2100000, guid: cd41c62f61f4f274cb449961f102ebdc, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
