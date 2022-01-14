@@ -1,9 +1,24 @@
 fileFormatVersion: 2
-guid: 26bb732ca5067c2409ee6b6cf6a0329f
+guid: aaf67d81674f7634f94b7e6f04f72fc4
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IkeaWood
+    second: {fileID: 2100000, guid: e6b414d739e409343804a398aac990d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metall
+    second: {fileID: 2100000, guid: 7fba542ab54721b4993af5144c47d224, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood052_1K_Color
+    second: {fileID: 2800000, guid: 4b66ccabdb5b68c4eb858348e1daba63, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
